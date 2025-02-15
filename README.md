@@ -1,6 +1,2 @@
-#include<stdio.h>
-Int main ()
-{
-Printf("AirAman89");
-Return 0;
-}
+# ML-Project
+Bank customer who left the bank or stay in bank?
